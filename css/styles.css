@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(34, 34, 34);
+    font-family: 'Roboto Mono',monospace;
+    color: rgb(255, 255, 255);
+  }
+
+  a:link{
+    color: rgb(255, 254, 175);
+  }
+  a:visited{
+    color: rgb(255, 247, 137);
+  }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(255, 255, 255);
+    border-width: 1ex;
+    width: 10%;
+  }
+
+  h1{
+      color: tomato;
+  }
+
+  h3{
+      color: tomato;
+  }
+
+  .circular{
+      border-radius: 100%;
+  }
